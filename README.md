@@ -1,6 +1,6 @@
 # 🚀 Self-Hosted Web IDE
 
-A fully-featured, self-hosted web-based code editor with Monaco Editor, integrated terminal, and multi-language support.
+A fully-featured, self-hosted web-based code editor with Monaco Editor, integrated terminal.
 
 ## ✨ Features (Phase 1)
 
