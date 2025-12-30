@@ -185,7 +185,7 @@ Access at: `http://ide.kayacuneyt.com`
 
 ### Running Code
 
-1. Open a `.js`, `.py`, or `.php` file
+1. Open a `.js`, `.svelte`, `.py`, or `.php` file
 2. Click **▶️ Çalıştır** or press `Ctrl+R`
 3. View output in the output panel
 
